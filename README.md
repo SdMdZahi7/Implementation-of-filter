@@ -166,7 +166,7 @@ plt.axis("off")
 ![167249356-c9196617-ebfb-42c8-8e37-b93a73cb1362](https://github.com/SdMdZahi7/Implementation-of-filter/assets/94187572/40414aa1-6f10-4740-8437-28ef90f973f1)
 
 
-###iv) Using Median Filter
+### iv) Using Median Filter
 ![167249366-8629eb38-dd8d-4b15-8fef-c051c87dc907](https://github.com/SdMdZahi7/Implementation-of-filter/assets/94187572/065bd755-fbf4-4041-b64f-da78bec14a91)
 
 
